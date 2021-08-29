@@ -1,0 +1,47 @@
+.titre{
+    color: black;
+}
+
+.formations{
+    border: 5px;
+    border-style: double;
+    border-color: blueviolet;
+}
+
+.sous-titre{
+    text-decoration: underline;
+}
+
+.stages{
+    border: 5px;
+    border-style: double;
+    border-color: blueviolet;
+}
+
+.competances{
+    border: 5px;
+    border-style: double;
+    border-color: blueviolet;
+}
+
+.languages{
+    border: 5px;
+    border-style: double;
+    border-color: blueviolet;
+}
+
+.paragraphe{
+    text-decoration: underline;
+}
+
+.loisirs{
+    border: 5px;
+    border-style: double;
+    border-color: blueviolet;
+}
+
+.reseaux{
+    border: 5px;
+    border-style: double;
+    border-color: blueviolet;
+}
